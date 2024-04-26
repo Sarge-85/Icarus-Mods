@@ -1,0 +1,220 @@
+{
+  "mods": [
+    {
+      "name": "Sarge_100k_Stack_Size",
+      "author": "Sarge",
+      "version": "1.0",
+      "compatibility": "",
+      "description": "changes stack sizes for most every stackable item in game to 100k",
+      "imageURL": "",
+      "readmeURL": "",
+      "files": {
+          "exmodz": "Sarge_100k_Stack_Size.EXMODZ"
+      }
+    },
+    {
+      "name": "Sarge_Basic_Saddle_Improvements",
+      "author": "Sarge",
+      "version": "1.0",
+      "compatibility": "",
+      "description": "improves the basic riding saddle to have more cargo space and multiple buffs to the animal it's equipped onto.",
+      "imageURL": "",
+      "readmeURL": "",
+      "files": {
+          "exmodz": "Sarge_Basic_Saddle_Improvements.EXMODZ"
+      }
+    },
+    {
+      "name": "Sarge_Better_Backpacks",
+      "author": "Sarge",
+      "version": "1.0",
+      "compatibility": "",
+      "description": "adds a ''Hercules'' backpack that can be crafted which has enormous carry weight and weight reducer buffs on it.",
+      "imageURL": "",
+      "readmeURL": "",
+      "files": {
+          "exmodz": "Sarge_Better_Backpacks.EXMODZ"
+      }
+    },
+    {
+      "name": "Sarge_Better_Basic_Animal_Feed",
+      "author": "Sarge",
+      "version": "1.0",
+      "compatibility": "",
+      "description": "adds a small food consumption reduction buff and removes the spoilage timer on the basic seed & wheat animal feed.",
+      "imageURL": "",
+      "readmeURL": "",
+      "files": {
+          "exmodz": "Sarge_Better_Basic_Animal_Feed.EXMODZ"
+      }
+    },
+    {
+      "name": "Sarge_Better_Difficulty_Levels",
+      "author": "Sarge",
+      "version": "1.0",
+      "compatibility": "",
+      "description": "increases animal's perception range on all 3 difficulties as well as removing the 3 death limit on hard difficulty.",
+      "imageURL": "",
+      "readmeURL": "",
+      "files": {
+          "exmodz": "Sarge_Better_Difficulty_Levels.EXMODZ"
+      }
+    },
+    {
+      "name": "Sarge_Better_Tamed_Animals",
+      "author": "Sarge",
+      "version": "1.0",
+      "compatibility": "",
+      "description": "increases the xp buff for recently petted animals and raises their max level to 200",
+      "imageURL": "",
+      "readmeURL": "",
+      "files": {
+          "exmodz": "Sarge_Better_Tamed_Animals.EXMODZ"
+      }
+    },
+    {
+      "name": "Sarge_Better_Wood_Buildings",
+      "author": "Sarge",
+      "version": "1.0",
+      "compatibility": "",
+      "description": "adds some buffs to various wood structures as well as swapping materials on reinforced wood to using nails (from beeswax) and on interior wood to beeswax (from nails)",
+      "imageURL": "",
+      "readmeURL": "",
+      "files": {
+          "exmodz": "Sarge_Better_Wood_Buildings.EXMODZ"
+      }
+    },
+    {
+      "name": "Sarge_Custom_Crafting",
+      "author": "Sarge",
+      "version": "1.0",
+      "compatibility": "",
+      "description": "adds a new Sarge crafting bench (anvil mesh) that the character can hand craft and a bunch of new items that can be made on the new bench. multiple new suit modules that can be crafted as well as an improved lantern and various other items.",
+      "imageURL": "",
+      "readmeURL": "",
+      "files": {
+          "exmodz": "Sarge_Custom_Crafting.EXMODZ"
+      }
+    },
+    {
+      "name": "Sarge_Deployable_Slots_Changes",
+      "author": "Sarge",
+      "version": "1.0",
+      "compatibility": "",
+      "description": "increases the slot counts in many storages and reduces slots in many craft stations making storages more useful instead of using craft stations as storages.",
+      "imageURL": "",
+      "readmeURL": "",
+      "files": {
+          "exmodz": "Sarge_Deployable_Slots_Changes.EXMODZ"
+      }
+    },
+    {
+      "name": "Sarge_Envirosuit",
+      "author": "Sarge",
+      "version": "1.0",
+      "compatibility": "",
+      "description": "modifies the basic suit to have 8 module slots as well as more storage, weight, and some buffs as well.",
+      "imageURL": "",
+      "readmeURL": "",
+      "files": {
+          "exmodz": "Sarge_Envirosuit.EXMODZ"
+      }
+    },
+    {
+      "name": "Sarge_Fish_Trap_Changes",
+      "author": "Sarge",
+      "version": "1.0",
+      "compatibility": "",
+      "description": "makes fish traps a little more logical and easier to craft as well as better chances on the fish they can catch.",
+      "imageURL": "",
+      "readmeURL": "",
+      "files": {
+          "exmodz": "Sarge_Fish_Trap_Changes.EXMODZ"
+      }
+    },
+    {
+      "name": "Sarge_New_Foods",
+      "author": "Sarge",
+      "version": "1.0",
+      "compatibility": "",
+      "description": "adds fruit juices made from watermelons and berries with buffs to go with them as well as dried pumpkin as a cheap trailfood to carry with you while exploring.",
+      "imageURL": "",
+      "readmeURL": "",
+      "files": {
+          "exmodz": "Sarge_New_Foods.EXMODZ"
+      }
+    },
+    {
+      "name": "Sarge_Non_Decaying_Animal_Carcasses",
+      "author": "Sarge",
+      "version": "1.0",
+      "compatibility": "",
+      "description": "animal carcasses no longer decay so you will find half eaten ones or skeletons scattered around as you wander. pairs super well with SalJam's AI Adjustments mod for increased wild animal interactions.",
+      "imageURL": "",
+      "readmeURL": "",
+      "files": {
+          "exmodz": "Sarge_Non_Decaying_Animal_Carcasses.EXMODZ"
+      }
+    },
+    {
+      "name": "Sarge_Reinforced_Stone_Buildings",
+      "author": "Sarge",
+      "version": "1.0",
+      "compatibility": "",
+      "description": "adds reinforced versions of the stone structures with increased ingredient costs.",
+      "imageURL": "",
+      "readmeURL": "",
+      "files": {
+          "exmodz": "Sarge_Reinforced_Stone_Buildings.EXMODZ"
+      }
+    },
+    {
+      "name": "Sarge_Slower_Food_Spoilage",
+      "author": "Sarge",
+      "version": "1.0",
+      "compatibility": "",
+      "description": "increases the spoilage timers for various food items. most were roughly doubled.",
+      "imageURL": "",
+      "readmeURL": "",
+      "files": {
+          "exmodz": "Sarge_Slower_Food_Spoilage.EXMODZ"
+      }
+    },
+    {
+      "name": "Sarge_Stronger_Reinforced_Buildings",
+      "author": "Sarge",
+      "version": "1.0",
+      "compatibility": "",
+      "description": "beefs up the ''reinforced'' buff applied to buildings so that it has better health and weather resistances.",
+      "imageURL": "",
+      "readmeURL": "",
+      "files": {
+          "exmodz": "Sarge_Stronger_Reinforced_Buildings.EXMODZ"
+      }
+    },
+    {
+      "name": "Sarge_Stronger_Spikey_Spikes",
+      "author": "Sarge",
+      "version": "1.0",
+      "compatibility": "",
+      "description": "increases the hedgehod spike damage modifier from 25% to 1000% for near instant kills. be careful!",
+      "imageURL": "",
+      "readmeURL": "",
+      "files": {
+          "exmodz": "Sarge_Stronger_Spikey_Spikes.EXMODZ"
+      }
+    },
+    {
+      "name": "Sarge_Well_Rested_XP_Buff",
+      "author": "Sarge",
+      "version": "1.0",
+      "compatibility": "",
+      "description": "adds a 200% experience buff to the existing well rested bonus from sleeping, incentivizing sleeping every night.",
+      "imageURL": "",
+      "readmeURL": "",
+      "files": {
+          "exmodz": "Sarge_Well_Rested_XP_Buff.EXMODZ"
+      }
+    }
+   ]
+ }
