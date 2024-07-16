@@ -5,7 +5,7 @@
       "author": "Sarge",
       "version": "1.2",
       "compatibility": "W125",
-      "description": "",
+      "description": "increases stack sizes of most every item to 100,000 for easier inventory management. does not alter item weights. ",
       "imageURL": "",
       "readmeURL": "",
       "files": {
